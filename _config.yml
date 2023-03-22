@@ -1,0 +1,117 @@
+title: Donations
+tagline: 'Charity Database'
+description: 'Find and support the right charitable causes with our donations charity database. Discover trusted organizations and make a difference today. Search, donate and impact lives.'
+url: https://donations.wiki
+repo: Donations
+google_analytics_id: G-J516E39B4K
+
+permalink: ':categories/:title.html'
+timezone: Europe/Istanbul
+
+exclude: ["z_serve.bat", "*.ai", "install.php"]
+
+collections_dir: data
+collections:
+  animal-charities:
+    name: Animal Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  children-s-charities:
+    name: Children's Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  civil-rights-charities:
+    name: Civil Rights Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  community-development-charities:
+    name: Community Development Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  disaster-relief-charities:
+    name: Disaster Relief Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  education-charities:
+    name: Education Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  environmental-charities:
+    name: Environmental Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  health-charities:
+    name: Health Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  homelessness-charities:
+    name: Homelessness Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  hunger-charities:
+    name: Hunger Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  international-aid-charities:
+    name: International Aid Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  lgbtq-rights-charities:
+    name: LGBTQ+ Rights Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  mental-health-charities:
+    name: Mental Health Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  poverty-charities:
+    name: Poverty Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  public-broadcasting-charities:
+    name: Public Broadcasting Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  refugee-charities:
+    name: Refugee Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  religious-charities:
+    name: Religious Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  social-services-charities:
+    name: Social Services Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  veterans-charities:
+    name: Veterans Charities
+    output: true
+    permalink: /:collection/:name.html
+
+  women-s-charities:
+    name: Women's Charities
+    output: true
+    permalink: /:collection/:name.html
+
+# Gems
+plugins:
+  - jekyll-sitemap
