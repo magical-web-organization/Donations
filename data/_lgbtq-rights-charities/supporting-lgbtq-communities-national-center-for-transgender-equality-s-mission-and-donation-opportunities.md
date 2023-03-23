@@ -35,6 +35,6 @@ In addition to advocating for policies and programs that support transgender and
 
 As a non-profit organization, the National Center for Transgender Equality relies on the support of individuals and organizations to continue their important work. Donations are essential to supporting their advocacy, education, and community support programs.
 
-If you want to donate to the National Center for Transgender Equality, visit their website at [www.transequality.org](www.transequality.org) and click on the "Donate" button. You can choose to make a one-time donation or set up a recurring donation. NCTE also accepts donations in the form of stocks and securities. All donations are tax-deductible.
+If you want to donate to the National Center for Transgender Equality, visit their website at [https://www.transequality.org](https://www.transequality.org) and click on the "Donate" button. You can choose to make a one-time donation or set up a recurring donation. NCTE also accepts donations in the form of stocks and securities. All donations are tax-deductible.
 
 In conclusion, the National Center for Transgender Equality is an organization dedicated to advocating for the civil rights and protections of transgender and non-binary individuals in the United States. They provide direct support, resources, and outreach services to the community, as well as advocating for policy changes to create a more affirmative environment. To support their work, you can visit their website and make a donation.

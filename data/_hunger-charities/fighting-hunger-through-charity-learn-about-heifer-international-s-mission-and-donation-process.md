@@ -27,7 +27,7 @@ Heifer International provides an array of training programs, livestock, and othe
 
 Donating to Heifer International is easy and can be done through the organization’s website. Here are the steps to follow:
 
-1. Visit the Heifer International website at [www.heifer.org](www.heifer.org).
+1. Visit the Heifer International website at [https://www.heifer.org](https://www.heifer.org).
 2. Click on the “Donate” button on the top of the homepage.
 3. Choose the amount you want to donate, the frequency of your donation, and your payment method.
 4. Select the country or region that you want your donation to support.

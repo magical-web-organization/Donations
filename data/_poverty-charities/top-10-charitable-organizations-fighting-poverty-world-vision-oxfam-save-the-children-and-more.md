@@ -21,7 +21,7 @@ Poverty still remains a significant problem worldwide, and many people still str
 
 **Bread for the World is a collective Christian voice that seeks justice for the poor, marginalized, and vulnerable in the United States and across the world.** It seeks to advocate for the rights of the poor by encouraging citizens to contact their elected representatives about hunger and poverty in their respective communities. They also work to empower poor communities by helping them understand their rights and access government programs that help them achieve better lives.
 
-## [Goodwill](/poverty-charities/title-fighting-poverty-through-donations-the-impact-and-ways-to-donate-to-goodwill.html)
+## [Goodwill](/poverty-charities/fighting-poverty-through-donations-the-impact-and-ways-to-donate-to-goodwill.html)
 
 **Goodwill is a nonprofit organization that is dedicated to providing employment, job training, and community-based services to individuals who are struggling to support themselves and their families.** It focuses on helping people who have developmental and physical disabilities, mental illness, and other challenges find sustainable employment opportunities.
 
