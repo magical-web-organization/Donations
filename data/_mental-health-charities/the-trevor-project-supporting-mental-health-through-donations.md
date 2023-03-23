@@ -3,7 +3,7 @@ layout: post
 title: "The Trevor Project: Supporting Mental Health Through Donations"
 description: "Learn how The Trevor Project supports mental health and suicide prevention for LGBTQ+ youth, and find out how you can donate to their cause. Take a positive step in aiding mental health today."
 date: 2023-03-18 23:14:53 +0300
-last_modified_at: 2023-03-22 09:24:10 +0300
+last_modified_at: 2023-03-23 13:20:59 +0300
 slug: the-trevor-project-supporting-mental-health-through-donations
 original: what does The Trevor Project do to help with mental health, how do they do it, how can i donate?
 ---
@@ -39,6 +39,6 @@ If you would like to support The Trevor Project, you can [donate money through t
 
 The Trevor Project also offers opportunities for volunteering, advocacy, and hosting fundraising events to raise awareness and support for their mission.
 
-# Conclusion
+## Conclusion
 
 The Trevor Project is a life-saving 24/7 suicide hotline and support system for young LGBTQ+ individuals who need someone to talk to. They provide free, confidential and no judgments support and are one of the most reliable and effective allies of the LGBTQ+ community. Donating to support their efforts or volunteering can make a world of difference to teenagers struggling with their identities and mental health.

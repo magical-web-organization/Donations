@@ -3,7 +3,7 @@ layout: post
 title: "Mental Health Charities in the US to Support: From Suicide Prevention to Anxiety and Depression Awareness"
 description: Discover mental health charities in the US including American Foundation for Suicide Prevention, NAMI, Mental Health America, and more. Get involved and help make a difference today.
 date: 2023-03-18 23:12:43 +0300
-last_modified_at: 2023-03-22 09:18:33 +0300
+last_modified_at: 2023-03-23 13:20:45 +0300
 slug: top-mental-health-charities-in-the-us-to-support-from-suicide-prevention-to-anxiety-and-depression-awareness
 original: A list of mental health charities with subheadings for American Foundation for Suicide Prevention, Brain & Behavior Research Foundation, National Alliance on Mental Illness (NAMI), Mental Health America, The Trevor Project, Crisis Text Line, The Jed Foundation, Active Minds, Suicide Prevention Lifeline, Anxiety and Depression Association of America
 ---
@@ -51,6 +51,6 @@ Mental health charities leverage community support and voluntary donations to pr
 
 **The Anxiety and Depression Association of America (ADAA) is an international non-profit organization dedicated to the prevention, treatment, and cure of anxiety, depression, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and co-occurring disorders.** The ADAA provides education and resources to help people overcome anxiety and depression and improve their overall mental wellness.
 
-# Conclusion
+## Conclusion
 
 These mental health charities play a vital role in promoting awareness and action related to mental health. By leveraging community support and donations, these organizations provide access to education, support, resources, research, and advocacy crucial for better mental health. By choosing to support one of these worthy organizations, we invest in mental wellness and contribute to improving the overall health of our communities.

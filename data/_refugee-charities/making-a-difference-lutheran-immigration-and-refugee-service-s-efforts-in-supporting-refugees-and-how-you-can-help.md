@@ -3,7 +3,7 @@ layout: post
 title: "Lutheran Immigration and Refugee Service's Efforts in Supporting Refugees and How You Can Help"
 description: Lutheran Immigration and Refugee Service (LIRS) is a nonprofit organization that provides various services to refugees in the United States, including legal assistance, job training and placement, and education. LIRS partners with local organizations to facilitate the resettlement process and advocate for refugees' rights. To support LIRS's mission, you can donate online or explore other ways to give on their website.
 date: 2023-03-19 10:58:24 +0300
-last_modified_at: 2023-03-22 11:54:39 +0300
+last_modified_at: 2023-03-23 13:20:34 +0300
 slug: making-a-difference-lutheran-immigration-and-refugee-service-s-efforts-in-supporting-refugees-and-how-you-can-help
 original: what does Lutheran Immigration and Refugee Service. do to help refugees, how do they do it, how can i donate?
 ---
@@ -45,6 +45,6 @@ If you would like to support LIRS and their work with refugees and migrants in t
 
 Your donation will help LIRS provide critical support and services to refugees and migrants in the United States. Your support will help them provide a welcoming community, legal assistance, education and training, and advocacy to those who come to the United States seeking safety and hope for the future.
 
-# Conclusion
+## Conclusion
 
 Lutheran Immigration and Refugee Service (LIRS) is a non-profit organization that provides essential support and services to refugees, migrants, and asylum seekers in the United States. Their work is vital to ensuring that those who come to the United States seeking safety and a better future can access the resources and support they need to thrive. By donating to LIRS, you can help them continue their important work and make a difference in the lives of refugees and migrants across the country.
