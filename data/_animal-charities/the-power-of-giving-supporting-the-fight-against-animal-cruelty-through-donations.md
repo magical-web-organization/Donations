@@ -27,7 +27,7 @@ If you suspect that someone is mistreating animals, r**eport it to your local an
 
 Education is key in preventing animal cruelty. The more we know about its consequences, the better prepared we can be to recognize and report it. Share information with others and encourage them to get involved in the fight against animal cruelty.
 
-### 4. [Support Animal Welfare Organizations](http://localhost:4000/animal-charities/top-animal-charities-aspca-humane-society-best-friends-wwf-peta-awi-wcs.html)
+### 4. [Support Animal Welfare Organizations](/animal-charities/top-animal-charities-aspca-humane-society-best-friends-wwf-peta-awi-wcs.html)
 
 Supporting local, national or international charities/organizations that aim to care for animals, lobby for stronger animal protection laws, **investigate suspected abuse and rescue animals in distress is a great way to prevent animal cruelty.**
 

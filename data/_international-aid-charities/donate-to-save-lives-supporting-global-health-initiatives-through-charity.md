@@ -29,7 +29,7 @@ Education and awareness campaigns are effective ways to promote global health in
 
 Developing healthcare infrastructure in low-income areas is critical to improving access to healthcare. Many communities lack basic healthcare infrastructure, such as hospitals, clinics, and trained healthcare professionals. By investing in healthcare infrastructure, we can provide people with access to essential healthcare services.
 
-### 3. [Donations to health organizations](http://localhost:4000/health-charities/top-health-charities-for-making-a-difference-from-cancer-research-to-disease-support.html)
+### 3. [Donations to health organizations](/health-charities/top-health-charities-for-making-a-difference-from-cancer-research-to-disease-support.html)
 
 Donations to health organizations can help promote global health initiatives. These donations can support research and development of vaccines and treatments, improve healthcare infrastructure, and provide healthcare services to vulnerable populations.
 

@@ -17,7 +17,7 @@ There are many organizations that provide shelter, education, and other vital re
 
 * [Covenant House](/homelessness-charities/covenant-house-fighting-homelessness-with-compassion.html): Covenant House is an international nonprofit organization that provides shelter, education, and other resources to homeless youth in 31 cities across six countries.
 * StandUp for Kids: StandUp for Kids is a nonprofit organization that provides a variety of services for homeless youth, including street outreach, mentoring, and housing assistance.
-* [The Trevor Project](http://localhost:4000/lgbtq-rights-charities/supporting-the-lgbtq-community-learn-about-the-trevor-project-s-mission-and-how-to-donate.html): The Trevor Project is a national organization that provides crisis intervention and suicide prevention services to LGBTQ+ youth.
+* [The Trevor Project](/lgbtq-rights-charities/supporting-the-lgbtq-community-learn-about-the-trevor-project-s-mission-and-how-to-donate.html): The Trevor Project is a national organization that provides crisis intervention and suicide prevention services to LGBTQ+ youth.
 * YouthBuild: YouthBuild is a nonprofit organization that provides education and job training to low-income youth, including those who have experienced homelessness.
 
 ## Volunteer at a Homeless Youth Shelter

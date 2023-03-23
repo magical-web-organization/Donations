@@ -25,7 +25,7 @@ The LGBTQ+ community has long been a target of discrimination, inequality, and h
 
 **Lambda Legal is a legal organization that provides services to the LGBTQ+ community, including legal assistance to those who are facing discrimination or harassment.** They also engage in advocacy for policy changes that would promote equality for the community.
 
-## [National Center for Lesbian Rights](http://localhost:4000/lgbtq-rights-charities/supporting-lgbtq-communities-through-the-national-center-for-lesbian-rights-ways-to-donate.html)
+## [National Center for Lesbian Rights](/lgbtq-rights-charities/supporting-lgbtq-communities-through-the-national-center-for-lesbian-rights-ways-to-donate.html)
 
 **The National Center for Lesbian Rights is a legal organization that focuses specifically on legal issues affecting lesbian women.** They provide legal assistance to help promote equal treatment under the law and advocate for policy changes to improve the lives of lesbian women.
 
