@@ -37,6 +37,11 @@ collections:
     output: true
     permalink: /:collection/:name.html
 
+  donations:
+    name: Donations
+    output: true
+    permalink: /:collection/:name.html
+
   education-charities:
     name: Education Charities
     output: true
